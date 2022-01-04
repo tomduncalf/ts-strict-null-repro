@@ -1,0 +1,10 @@
+{
+	"include": [
+		"types/index.d.ts",
+		"index.ts"
+	],
+  "compilerOptions": {
+    "noEmit": true,
+    "strictNullChecks": true
+  },
+}
